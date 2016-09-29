@@ -1,1 +1,1 @@
-# presentation template
+# Presentation template based on Reveal Framework
